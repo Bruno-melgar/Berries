@@ -44,9 +44,9 @@ Can be found in the Metadata xlsx file
 Can be found in the publication, will be linked to the dataset once published online
 
 - **This dataset contains the following files:**
-- Berries_analysis file (Excel file consisting of separate sheets per experiment)
-- Metadata file (Excel file with explanations of all variables per datasheet)
-- Code file Berries.R includes the all analyses conducted in the manuscript
+  - **Berries_analysis** file (Excel file consisting of separate sheets per experiment)
+  - **Metadata** file (Excel file with explanations of all variables per datasheet)
+  - Code file **Berries.R** includes the all analyses conducted in the manuscript
 
 *This dataset is published under the CC BY (Attribution) license.
 This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator.*
