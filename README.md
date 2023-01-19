@@ -5,7 +5,7 @@
 
 ### Creators:
 - **Débora Gonçalves Bortolini** <br/>	
-Graduate Program of Environmental Science and Technology, Federal University of Technology–Parana, Av. Deputado Heitor AlencarFurtado, 5000, Curitiba, Parana, CEP 81280-340, Brazil
+Graduate Program of Environmental Science and Technology, Federal University of Technology–Parana, Av. Deputado Heitor AlencarFurtado, 5000, Curitiba, Parana, CEP 81280-340, Brazil  <br/>
 - **Tiane C. Finimundy**		<br/>	
 1. Centro de Investigação de Montanha (CIMO), Instituto Politécnico de Bragança, Campus de Santa Apolónia, 5300-253 Bragança, Portugal <br/>	
 2. Laboratório Associado para a Sustentabilidade e Tecnologia em Regiões de Montanha (SusTEC), Instituto Politécnico de Bragança, Campus de Santa Apolónia, 5300-253 Bragança, Portugal. <br/>	
@@ -14,7 +14,7 @@ ORCID:0000-0003-3516-0795
 1. Centro de Investigação de Montanha (CIMO), Instituto Politécnico de Bragança, Campus de Santa Apolónia, 5300-253 Bragança, Portugal <br/>	
 2. Laboratório Associado para a Sustentabilidade e Tecnologia em Regiões de Montanha (SusTEC), Instituto Politécnico de Bragança, Campus de Santa Apolónia, 5300-253 Bragança, Portugal. <br/>	
 ORCID:0000-0002-5825-6872
-- **Charles W. Isidoro Haminiuk**	<br/>	
+- **Charles W. Isidoro Haminiuk**			<br/>	
 Graduate Program of Environmental Science and Technology, Federal University of Technology–Parana, Av. Deputado Heitor AlencarFurtado, 5000, Curitiba, Parana, CEP 81280-340, Brazil. <br/>	
 ORCID:0000-0002-1432-9427
 - **Lillian Barros**			<br/>	
