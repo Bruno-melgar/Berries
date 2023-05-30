@@ -1,3 +1,7 @@
+![RSM](https://github.com/Bruno-melgar/Berries/assets/57594798/939702fa-3c68-4397-a997-d1765c4f8cb3)
+
+
+---
 ### Document:
 - **Title of the dataset:** Berries_Bortolini
 - **Data underlying publication:** 
